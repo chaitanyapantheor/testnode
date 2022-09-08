@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chaitanyapantheor/testnode/issues"
   },
-  "homepage": "https://github.com/chaitanyapantheor/testnode#readme"
+  "homepage": "https://github.com/chaitanyapantheor/testnode#readme",
+  "engines": {
+    "node": "10.24.1"
+  }
 }
